@@ -18,15 +18,17 @@
 - ⚡ **I like RPGs and cats** <img src="https://media.giphy.com/media/S5oIIeRIVZ1qHdheGM/giphy.gif" width="40">
 
 <h2> Skills: </h2>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"></code>
+<div align="Center">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"></code>
+</div>
 
 
 <h2> GitHub Stats: </h2>
