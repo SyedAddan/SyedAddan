@@ -3,7 +3,7 @@
 <h4 align="center">I'm Syed Addan, a data whisperer and machine learning maven. With my wand of algorithms, I've conjured up a 98% success rate, delivering over 40 high-performance ML systems. My passion for continuous learning and knack for quirky communication make me an innovative professional, weaving magic with data and ML.</h4>
 
 
-- 💼 I'm currently working as Machine Learning at [Cognitive Ninja](https://www.linkedin.com/company/cognitiveninja) <img src="https://media.giphy.com/media/DGQSuVt6gqSZ3SGiO1/giphy.gif" width="40">
+- 💼 I'm currently working as Machine Learning Engineer at [Cognitive Ninja](https://www.linkedin.com/company/cognitiveninja) <img src="https://media.giphy.com/media/DGQSuVt6gqSZ3SGiO1/giphy.gif" width="40">
 
 - 🔭 I’m currently working on [Lyrical](https://github.com/SyedAddan/Lyrical) <img src="https://media.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif" width="40">
 
