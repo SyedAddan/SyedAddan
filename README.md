@@ -5,7 +5,7 @@
 
 - 💼 I'm currently working as Machine Learning Engineer at [Cognitive Ninja](https://www.linkedin.com/company/cognitiveninja) <img src="https://media.giphy.com/media/DGQSuVt6gqSZ3SGiO1/giphy.gif" width="40">
 
-- 🔭 I’m currently working on [Lyrical](https://github.com/SyedAddan/Lyrical) <img src="https://media.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif" width="40">
+- 🔭 I’m currently working on [Familiar](https://github.com/SyedAddan/familiar) <img src="https://media.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif" width="40">
 
 - 🌱 I’m currently learning **TFX, Transformers** <img src="https://media.giphy.com/media/CE7mCYe9kqwrpvlOj0/giphy.gif" width="40">
 
