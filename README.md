@@ -1,6 +1,6 @@
 <h2> Hi, I'm Syed Addan! <img src="https://media.giphy.com/media/TOIFYQrQvZbLzeRUiF/giphy.gif" width="80"></h2>
 <img align='right' src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="300">
-<h4 align="center">I'm Syed Addan, a data whisperer and machine learning maven. With my wand of algorithms, I've conjured up a 98% success rate, delivering over 40 high-performance ML systems. My passion for continuous learning and knack for quirky communication make me an innovative professional, weaving magic with data and ML.</h4>
+<h4 align="center">I'm Syed Addan, a data enthusiast and machine learning expert. With my expertise in algorithms, I've successfully developed numerous high-performance ML systems. My passion for continuous learning and unique approach to communication make me an innovative professional, creating impactful solutions with data and machine learning.</h4>
 
 
 - 💼 I'm currently working as a **Machine Learning Engineer** at **AIO App** <img src="https://media.giphy.com/media/DGQSuVt6gqSZ3SGiO1/giphy.gif" width="40">
