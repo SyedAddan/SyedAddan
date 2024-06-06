@@ -3,15 +3,19 @@
 <h4 align="center">I'm Syed Addan, a data whisperer and machine learning maven. With my wand of algorithms, I've conjured up a 98% success rate, delivering over 40 high-performance ML systems. My passion for continuous learning and knack for quirky communication make me an innovative professional, weaving magic with data and ML.</h4>
 
 
-- 💼 I'm currently working as Machine Learning Engineer at [Cognitive Ninja](https://www.linkedin.com/company/cognitiveninja) <img src="https://media.giphy.com/media/DGQSuVt6gqSZ3SGiO1/giphy.gif" width="40">
+- 💼 I'm currently working as a **Machine Learning Engineer** at **AIO App** <img src="https://media.giphy.com/media/DGQSuVt6gqSZ3SGiO1/giphy.gif" width="40">
+
+- 🎓 I did my **Bachelor's in Artificial Intelligence** from **FAST NUCES, Islamabad** <img src="https://media3.giphy.com/media/HWK29ivizwEVAh5dz2/giphy.gif?cid=6c09b952zj170bbzbkqywwpg1wi6pv6ub9xsoa5iw64pjfuz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40">
 
 - 🔭 I’m currently working on [Familiar](https://github.com/SyedAddan/familiar) <img src="https://media.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif" width="40">
 
-- 🌱 I’m currently learning **TFX, Transformers** <img src="https://media.giphy.com/media/CE7mCYe9kqwrpvlOj0/giphy.gif" width="40">
+- 🌱 I’m currently learning **RAGs** <img src="https://media.giphy.com/media/CE7mCYe9kqwrpvlOj0/giphy.gif" width="40">
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/SyedAddan) (right where you are!) <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="40">
 
 - 💬 Ask me about **python, nlp, transformers** <img src="https://media.giphy.com/media/gLFEUVlLAjabfwJEPX/giphy.gif" width="40">
+
+- 👾 I love doing **3d arts**, **reading** and **writing** <img src="https://media1.giphy.com/media/LkjlH3rVETgsg/giphy.gif?cid=6c09b952ep5v6ood5xoiz97o1dpnbsl0cw8nh2fc7vq5855b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="40">
 
 - 📫 Mail me at **syedaddan@gmail.com** <img src="https://media.giphy.com/media/uWEesgiJUlQVQAc1xe/giphy.gif" width="40">
 
