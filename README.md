@@ -1,4 +1,11 @@
-<h1 align="center"> Hi, I'm Syed Addan! <img src="https://media.giphy.com/media/TOIFYQrQvZbLzeRUiF/giphy.gif" width="80"></h1>
+---
+
+<h1 align="center">
+  Hi, I'm Syed Addan! <img src="https://media.giphy.com/media/TOIFYQrQvZbLzeRUiF/giphy.gif" width="80">
+</h1>
+
+---
+
 <img align='right' src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="200">
 <h4 align="left">I'm Syed Addan, a data enthusiast and machine learning expert. With my expertise in algorithms, I've successfully developed numerous high-performance ML systems. My passion for continuous learning and unique approach to communication make me an innovative professional, creating impactful solutions with data and machine learning.</h4>
 
