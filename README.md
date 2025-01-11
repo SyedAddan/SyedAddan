@@ -14,7 +14,7 @@
 
 - 🎓 I did my **Bachelor's in Artificial Intelligence** from **FAST NUCES, Islamabad** <img src="https://media3.giphy.com/media/HWK29ivizwEVAh5dz2/giphy.gif?cid=6c09b952zj170bbzbkqywwpg1wi6pv6ub9xsoa5iw64pjfuz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50">
 
-- 🔭 I’m currently working on [Familiar](https://github.com/SyedAddan/familiar) <img src="https://media.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif" width="50">
+- 🔭 I’m currently working on [Folio](https://github.com/SyedAddan/folio) <img src="https://media.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif" width="50">
 
 - 🌱 I’m currently learning **RAGs** <img src="https://media.giphy.com/media/CE7mCYe9kqwrpvlOj0/giphy.gif" width="50">
 
