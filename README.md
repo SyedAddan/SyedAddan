@@ -6,7 +6,7 @@
 
 ---
 
-<img align='right' src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="250">
 <p align="left">With my expertise in <strong>Machine Learning Algorithms</strong>, I've successfully developed numerous <strong><i>high-performance</i> ML systems</strong> ranging from <strong><i>near accurate</i> Predictive Systems</strong> to <strong><i>real-time</i> Call Agents</strong>. To find out more about <b>my projects</b> and <b>what I have been working on</b>, <strong><i>talk</i></strong> to my portfolio (yes, talk) at: <a href="https://www.syedaddan.com">www.syedaddan.com</a></p>
 
 - 💼 I'm currently working as a **Machine Learning Engineer** at **AIO** <img src="https://media.giphy.com/media/DGQSuVt6gqSZ3SGiO1/giphy.gif" width="60">
