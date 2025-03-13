@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedaddan&layout=donut"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedaddan"/>
+  <img src="https://streak-stats.demolab.com/?user=syedaddan&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </div>
 
 
